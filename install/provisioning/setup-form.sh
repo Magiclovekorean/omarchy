@@ -33,6 +33,7 @@ OMARCHY_KEYBOARD_LAYOUTS=$'English (US)|us
 English (UK)|uk
 English (US, Dvorak)|dvorak
 English (US, Colemak)|colemak
+Spanish|es
 Azerbaijani|azerty
 Belarusian|by
 Belgian|be-latin1
@@ -71,7 +72,6 @@ Russian|ru
 Serbian|sr-latin
 Slovak|sk-qwertz
 Slovenian|slovene
-Spanish|es
 Spanish (Latin American)|la-latin1
 Swedish|sv-latin1
 Tajik|tj_alt-UTF8
